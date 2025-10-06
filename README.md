@@ -1,6 +1,6 @@
 ### Seja bem-vindo ao meu GitHub!
 
-aqui apenas documento alguns projetos pessoais que faço...
+Aqui apenas documento alguns projetos pessoais que faço...
 
 <br/>
 
